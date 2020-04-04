@@ -1,0 +1,31 @@
+img.slider{
+    width: 100%;
+    height: 555px;
+    display: inline-block;
+}
+
+.caja{
+    float: left;
+    width: 370px;
+    height: 10%;
+}
+
+.subtitulo{
+    display: inline-block;
+    background: #ffffff;
+    width: 400px;
+}
+.servicios{
+    color:  #0b0b0b;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+img.fo{
+    width: 400px;
+}
+.contenido{
+    padding: 20px;
+    text-align: justify;
+    color: #7c7c7c;
+}
